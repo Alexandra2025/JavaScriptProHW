@@ -1,0 +1,48 @@
+html {
+  font-size: 30px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  padding-left: 350px;
+  padding-top: 100px;
+}
+
+.action {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+}
+
+.review {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.btnAdd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.butnAdd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.product {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
